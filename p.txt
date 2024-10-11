@@ -1,2 +1,2 @@
-hello i am git p.txt
+hello i am git p.txt  
 i fixed this issue plese merge
