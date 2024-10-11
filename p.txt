@@ -1,2 +1,4 @@
 hello i am git p.txt  
 i fixed this issue plese merge
+
+hello conflict 2
